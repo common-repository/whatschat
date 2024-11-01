@@ -1,0 +1,28 @@
+#wachat-upload-chat-button, #wachat-chat-buttom-preview {
+  vertical-align: middle;
+}
+
+#wachat-upload-chat-button {
+  margin-right: 15px;
+}
+
+.wachat-label {
+  margin-right: 15px;
+}
+
+.wachat-num-field {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.wachat-bot-margin {
+  margin-bottom: 10px !important;
+}
+
+.wachat-chat-btn-sample {
+  display: inline-block;
+}
+
+.wachat-chat-btn-sample img {
+  height: 50px;
+}
